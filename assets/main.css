@@ -43,7 +43,7 @@ img.profile-pic {
 
 img.qr-code {
         object-fit: cover;
-        border-radius: 5px;
+        border-radius: 10px;
         /* display: none; */
 	height: 150px;
 	width: 150px;

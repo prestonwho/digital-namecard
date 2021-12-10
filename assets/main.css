@@ -41,8 +41,9 @@ img.profile-pic {
 	margin-left: 4px;
 }
 
-#qr-code {
-        display: none;
+img.qr-code {
+        object-fit: cover;
+        /* display: none; */
 	height: 150px;
 	width: 150px;
 	margin: 0;
